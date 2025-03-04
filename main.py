@@ -58,7 +58,7 @@ def save_latest(site_name, new_urls):
     
     # 保存latest.json
     latest_file = latest_dir / f'{site_name}.json'
-    with open(latest_file, 'w') as f:
+    with open(latest_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(new_urls))
 
 def save_diff(site_name, new_urls):
@@ -72,7 +72,7 @@ def save_diff(site_name, new_urls):
     # 保存当日新增数据
     file_path = date_dir / f'{site_name}.json'
     mode = 'a' if file_path.exists() else 'w'
-    with open(file_path, mode) as f:
+    with open(file_path, mode, encoding='utf-8') as f:
         if mode == 'a':
             f.write('\n--------------------------------\n')  # 添加分隔符
         f.write('\n'.join(new_urls) + '\n')  # 确保每个URL后都有换行

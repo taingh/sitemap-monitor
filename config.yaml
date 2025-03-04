@@ -2,7 +2,54 @@ sites:
   - name: "CrazyGames"
     sitemap_urls:
       - "https://www.crazygames.com/en/sitemap"
-    check_interval: 86400
+    active: true
+  - name: "GameDistribution"
+    sitemap_urls:
+      - "https://gamedistribution.com/sitemap-games-1.xml"
+    active: true
+  - name: "MiniPlay"
+    sitemap_urls:
+      - "https://www.miniplay.com/sitemap-games-3.xml"
+    active: true
+  - name: "Poki"
+    sitemap_urls:
+      - "https://poki.com/en/sitemaps/games.xml"
+    active: true
+  - name: "Itch.io Games"
+    sitemap_urls:
+      - "https://itch.io/sitemaps/games.xml"
+      - "https://itch.io/sitemaps/games_10.xml"
+      - "https://itch.io/sitemaps/games_11.xml"
+      - "https://itch.io/sitemaps/games_12.xml"
+      - "https://itch.io/sitemaps/games_13.xml"
+      - "https://itch.io/sitemaps/games_14.xml"
+      - "https://itch.io/sitemaps/games_15.xml"
+      - "https://itch.io/sitemaps/games_16.xml"
+      - "https://itch.io/sitemaps/games_17.xml"
+      - "https://itch.io/sitemaps/games_18.xml"
+      - "https://itch.io/sitemaps/games_19.xml"
+      - "https://itch.io/sitemaps/games_2.xml"
+      - "https://itch.io/sitemaps/games_20.xml"
+      - "https://itch.io/sitemaps/games_21.xml"
+      - "https://itch.io/sitemaps/games_22.xml"
+      - "https://itch.io/sitemaps/games_23.xml"
+      - "https://itch.io/sitemaps/games_24.xml"
+      - "https://itch.io/sitemaps/games_25.xml"
+      - "https://itch.io/sitemaps/games_26.xml"
+      - "https://itch.io/sitemaps/games_27.xml"
+      - "https://itch.io/sitemaps/games_28.xml"
+      - "https://itch.io/sitemaps/games_29.xml"
+      - "https://itch.io/sitemaps/games_3.xml"
+      - "https://itch.io/sitemaps/games_4.xml"
+      - "https://itch.io/sitemaps/games_5.xml"
+      - "https://itch.io/sitemaps/games_6.xml"
+      - "https://itch.io/sitemaps/games_7.xml"
+      - "https://itch.io/sitemaps/games_8.xml"
+      - "https://itch.io/sitemaps/games_9.xml"
+    active: true
+  - name: "SpotleGame"
+    sitemap_urls:
+      - "https://spotlegame.com/sitemap.xml"
     active: true
 
 feishu:

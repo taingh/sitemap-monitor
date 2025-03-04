@@ -21,7 +21,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 python-dateutil pyyaml
+        pip install requests beautifulsoup4 python-dateutil pyyaml lxml
 
     - name: Run Monitor
       run: python main.py
