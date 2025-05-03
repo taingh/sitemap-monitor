@@ -3,7 +3,7 @@ sites:
     sitemap_urls:
       - "https://spotlegame.com/sitemap.xml"
     active: true
-- name: "PokeRogue"
+  - name: "PokeRogue"
     sitemap_urls:
       - "https://pokerogue.io/sitemap.xml"
     active: true
@@ -19,7 +19,7 @@ sites:
     sitemap_urls:
       - "https://azgames.io/sitemap.xml"
     active: true
-- name: "CookieClicker2"
+  - name: "CookieClicker2"
     sitemap_urls:
       - "https://cookie-clicker2.com/sitemap.xml"
     active: true
