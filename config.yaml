@@ -55,6 +55,10 @@ sites:
     sitemap_urls:
       - "https://smashy-road.io/sitemap.xml"
     active: true
+  - name: "GeometryDashIO"
+    sitemap_urls:
+      - "https://geometrylite.io/sitemap.xml"
+    active: true
 
 feishu:
   webhook_url: "https://open.feishu.cn/open-apis/bot/v2/hook/c84594b9-e8dd-4828-a24d-cb1175f41f3a"
