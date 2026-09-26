@@ -1167,12 +1167,12 @@ if (window.visualViewport) {
 visualViewport.addEventListener('resize', clampFloatingVideo);
 visualViewport.addEventListener('scroll', clampFloatingVideo);
 <script type="text/javascript" id="ez-toc-scroll-scriptjs-js-extra">
-var eztoc_smooth_local = {"scroll_offset":"0","add_request_uri":"","add_self_reference_link":""};
+var eztoc_smooth_local = {"scroll_offset":"30","add_request_uri":"","add_self_reference_link":""};
 <script type="text/javascript" src="https://cdn.chiikawapuzzle.io/wp-content/plugins/easy-table-of-contents/assets/js/smooth_scroll.min.js?ver=2.0.74" id="ez-toc-scroll-scriptjs-js"></script>
 <script type="text/javascript" src="https://cdn.chiikawapuzzle.io/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1" id="ez-toc-js-cookie-js"></script>
 <script type="text/javascript" src="https://cdn.chiikawapuzzle.io/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2" id="ez-toc-jquery-sticky-kit-js"></script>
 <script type="text/javascript" id="ez-toc-js-js-extra">
-var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","scroll_offset":"0","fallbackIcon":"<span class=\"\"><span class=\"eztoc-hide\" style=\"display:none;\">Toggle<\/span><span class=\"ez-toc-icon-toggle-span\"><svg style=\"fill: #999;color:#999\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"><\/path><\/svg><svg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"><path d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"\/><\/svg><\/span><\/span>","chamomile_theme_is_on":""};
+var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","scroll_offset":"30","fallbackIcon":"<span class=\"\"><span class=\"eztoc-hide\" style=\"display:none;\">Toggle<\/span><span class=\"ez-toc-icon-toggle-span\"><svg style=\"fill: #999;color:#999\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"><\/path><\/svg><svg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"><path d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"\/><\/svg><\/span><\/span>","chamomile_theme_is_on":""};
 <script type="text/javascript" src="https://cdn.chiikawapuzzle.io/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.74-1746443216" id="ez-toc-js-js"></script>
 // === Catfish Banner Global: lấy từ API /api/catfish-banners (giống React CatfishBanners.jsx) ===
 (function () {
@@ -1249,4 +1249,4 @@ new MutationObserver(updateLinks).observe(document.body, {
 childList: true,
 subtree: true
 </html>
-<!-- | chiikawapuzzle.io | 2026-09-24 18:50:13 -->
+<!-- | chiikawapuzzle.io | 2026-09-25 16:02:46 -->
