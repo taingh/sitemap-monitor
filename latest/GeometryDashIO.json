@@ -119,7 +119,8 @@ display: block !important;
 display: block !important
 @media (min-width: 768px) and (max-width: 1024px) {
 max-width: 110px;
-</style><link rel="icon" href="https://cdn.xoilac8767.top/wp-content/uploads/2025/05/cropped-xoilac_mypham_logo_header-32x32.png" sizes="32x32" />
+</style><link rel="alternate" media="only screen and (max-width: 640px)" href="https://xoilacmpc.cc/" />
+<link rel="icon" href="https://cdn.xoilac8767.top/wp-content/uploads/2025/05/cropped-xoilac_mypham_logo_header-32x32.png" sizes="32x32" />
 <link rel="icon" href="https://cdn.xoilac8767.top/wp-content/uploads/2025/05/cropped-xoilac_mypham_logo_header-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://cdn.xoilac8767.top/wp-content/uploads/2025/05/cropped-xoilac_mypham_logo_header-180x180.png" />
 <meta name="msapplication-TileImage" content="https://cdn.xoilac8767.top/wp-content/uploads/2025/05/cropped-xoilac_mypham_logo_header-270x270.png" />
@@ -1249,3 +1250,4 @@ new MutationObserver(updateLinks).observe(document.body, {
 childList: true,
 subtree: true
 </html>
+<!-- | xoilac8767.top | 2026-11-22 18:46:05 -->
